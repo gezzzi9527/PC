@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>格子世界</title>
+<link href="chat.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="index.js"></script>
+</head>
+
+<body>
+<div class="top" id="top">
+    <div class="chat pos" id="chat">群聊</div>
+    <div class="arch pos" id="arch">归档</div>
+    <div class="setlogin pos" id="setlogin">设为登陆点</div>
+</div>
+<div class="chat-body" id="chat-body">
+    <div class="content", id="content">
+        <font color="green">聊天内容展示</font>
+    </div>
+    <div class="friend-list", id="friend-list">
+        <center>好友列表</center>
+    </div>
+	<div class="writemsg" id="writemsg">
+        <textarea name="edit" id="edit" rows="2" cols="50" onfocus="if(this.value=='格子世界，尽情吐槽') {this.value='';}this.style.color='#333';" onblur="if(this.value=='') {this.value='格子世界，尽情吐槽';this.style.color='#333';}">格子世界，尽情吐槽</textarea> 
+        
+        <button type="button">发送</button>
+    </div>
+</div>
+
+</body>
+</html>

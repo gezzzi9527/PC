@@ -1,0 +1,52 @@
+[ 2014-12-29T11:10:50+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.043527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.043691s ]
+
+[ 2014-12-29T11:12:33+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+
+[ 2014-12-29T11:12:34+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2014-12-29T11:12:35+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+
+[ 2014-12-29T11:12:35+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+
+[ 2014-12-29T17:50:37+08:00 ] ::1 /dev/gezzzi/index.php
+ERR: sdf
+
+[ 2014-12-29T17:50:47+08:00 ] ::1 /dev/gezzzi/index.php
+ERR: sdf
+
+[ 2014-12-29T18:01:04+08:00 ] ::1 /dev/gezzzi/index.php
+ERR: sdf
+
+[ 2014-12-29T18:02:56+08:00 ] ::1 /dev/gezzzi/index.php
+ERR: 
+

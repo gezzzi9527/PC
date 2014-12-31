@@ -1,0 +1,87 @@
+@charset "utf-8";
+.top{
+	background-color: #CCCCCC;
+	height: 25px;
+	width: 600px;
+	position: relative;
+	margin: 0px auto; 
+	vertical-align: center;
+}
+
+.chat {
+	float: left;
+	height: 25px;
+	width: 200px;
+	background-color: #F00;
+	text-align: center;
+	cursor: pointer;
+}
+.arch {
+	float: left;
+	height: 25px;
+	width: 200px;
+	background-color: #0F0;
+	text-align: center;
+	cursor: pointer;
+}
+
+.setlogin {
+	float: left;
+	height: 25px;
+	width: 200px;
+	background-color: #00F;
+	text-align: center;
+	cursor: pointer;
+}
+
+.pos {
+	line-height:25px;
+}
+
+.chat-body {
+	width: 600px;
+	height: 500px;
+	background-color: #FFF;
+	position: relative;
+	margin: 0px auto; 
+	top: 5px;
+}
+
+.writemsg {
+	width: 400px;
+	height: 50px;
+	top: 20px;
+	left: 10px;
+	color: #333;
+	position: relative;
+}
+
+
+.content {
+	width: 400px;
+	height: 400px;
+	top: 10px;
+	left: 10px;
+	border: 1px, 1px;
+	background-color: #000;
+	color: #333;
+	position: relative;
+	float: left;
+}
+
+.friend-list {
+	width: 150px;
+	height: 400px;
+	top: 10px;
+	left: 30px;
+	border: 1px, 1px;
+	background-color: #999;
+	//border-color: black;
+	color: #333;
+	position: relative;
+	float: left;
+}
+
+body {
+	background-color: #CCC;
+}

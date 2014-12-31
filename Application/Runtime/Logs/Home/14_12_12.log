@@ -1,0 +1,859 @@
+[ 2014-12-12T10:19:15+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+
+[ 2014-12-12T10:19:20+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2014-12-12T10:19:34+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+
+[ 2014-12-12T10:26:29+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+
+[ 2014-12-12T10:26:39+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+
+[ 2014-12-12T10:26:52+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+
+[ 2014-12-12T10:27:22+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+
+[ 2014-12-12T10:27:45+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+
+[ 2014-12-12T10:28:09+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+
+[ 2014-12-12T10:28:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:31:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:31:54+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:31:54+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:32:05+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+
+[ 2014-12-12T10:32:16+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:32:26+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+
+[ 2014-12-12T10:32:58+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Vendor\gezzzi\gzmongo.php 第 57 行.
+
+[ 2014-12-12T10:34:52+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+
+[ 2014-12-12T10:35:04+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+
+[ 2014-12-12T10:35:04+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+
+[ 2014-12-12T10:35:05+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2014-12-12T10:35:49+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+
+[ 2014-12-12T10:35:50+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+
+[ 2014-12-12T10:35:51+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+
+[ 2014-12-12T10:36:47+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+
+[ 2014-12-12T10:36:58+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+
+[ 2014-12-12T10:36:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+
+[ 2014-12-12T10:36:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+
+[ 2014-12-12T10:37:47+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+
+[ 2014-12-12T10:37:48+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+
+[ 2014-12-12T10:37:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+
+[ 2014-12-12T10:38:17+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+
+[ 2014-12-12T10:41:15+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T10:46:48+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+
+[ 2014-12-12T10:47:06+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+
+[ 2014-12-12T10:48:24+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 58 行.
+
+[ 2014-12-12T10:48:56+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 58 行.
+
+[ 2014-12-12T11:21:49+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:50+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:50+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:50+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:51+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:51+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:51+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:21:52+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\ThinkPHP\Library\Org\Util\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:26:58+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:26:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:26:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:26:59+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:27:19+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+
+[ 2014-12-12T11:27:32+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:37:51+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:37:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:37:56+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:39:00+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:39:18+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+
+[ 2014-12-12T11:39:30+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 11 行.
+
+[ 2014-12-12T11:39:52+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 11 行.
+
+[ 2014-12-12T11:39:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 11 行.
+
+[ 2014-12-12T11:39:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 11 行.
+
+[ 2014-12-12T11:39:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Use of undefined constant MongoSer - assumed 'MongoSer' D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 11 行.
+
+[ 2014-12-12T11:44:46+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+
+[ 2014-12-12T11:44:57+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+
+[ 2014-12-12T11:45:26+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:18+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:19+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:19+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:20+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:20+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:21+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:48:30+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+
+[ 2014-12-12T11:48:33+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+
+[ 2014-12-12T11:48:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T11:54:15+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+
+[ 2014-12-12T12:53:22+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T12:58:42+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T13:08:42+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+
+[ 2014-12-12T13:09:53+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T13:10:24+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T13:11:00+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T14:54:47+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T15:08:06+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+
+[ 2014-12-12T15:08:44+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T15:12:19+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T15:12:40+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+
+[ 2014-12-12T15:16:48+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined index: err D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 285 行.
+
+[ 2014-12-12T15:17:29+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined index: err D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 285 行.
+NOTIC: [8] Undefined variable: errExcep D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 290 行.
+
+[ 2014-12-12T15:53:05+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined index: err D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 351 行.
+NOTIC: [8] Undefined variable: errExcep D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 356 行.
+
+[ 2014-12-12T16:02:41+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined variable: errExcep D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 390 行.
+
+[ 2014-12-12T16:04:09+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined variable: errExcep D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 390 行.
+
+[ 2014-12-12T16:04:10+08:00 ] ::1 /dev/gezzzi/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant SERVER_TYPE - assumed 'SERVER_TYPE' D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 57 行.
+NOTIC: [8] Undefined variable: errExcep D:\wamp\www\dev\gezzzi\Application\Home\Lib\gzmongo.class.php 第 390 行.
+

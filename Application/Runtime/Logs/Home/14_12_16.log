@@ -1,0 +1,234 @@
+[ 2014-12-16T14:48:31+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+
+[ 2014-12-16T17:08:25+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+
+[ 2014-12-16T17:10:28+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+
+[ 2014-12-16T17:42:43+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+
+[ 2014-12-16T17:43:18+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+
+[ 2014-12-16T17:47:52+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+
+[ 2014-12-16T17:48:22+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+
+[ 2014-12-16T17:48:31+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+
+[ 2014-12-16T17:48:52+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+
+[ 2014-12-16T17:49:02+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+
+[ 2014-12-16T17:49:23+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+
+[ 2014-12-16T17:58:18+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+
+[ 2014-12-16T17:58:19+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+
+[ 2014-12-16T18:04:04+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T18:04:49+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: curlError D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 18 行.
+
+[ 2014-12-16T18:05:07+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8] Undefined variable: curlError D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 18 行.
+
+[ 2014-12-16T18:05:08+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Undefined variable: curlError D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 18 行.
+
+[ 2014-12-16T18:05:24+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+
+[ 2014-12-16T18:05:33+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T18:05:34+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T19:30:23+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T19:30:51+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: a D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 19 行.
+NOTIC: [8] Array to string conversion D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 19 行.
+
+[ 2014-12-16T19:34:08+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined variable: a D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 19 行.
+NOTIC: [8] Array to string conversion D:\wamp\www\dev\gezzzi\Application\Common\Common\function.php 第 19 行.
+
+[ 2014-12-16T19:34:19+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T19:34:20+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T19:34:20+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
+[ 2014-12-16T19:43:43+08:00 ] ::1 /dev/gezzzi/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [2048] Non-static method functions::echoA() should not be called statically, assuming $this from incompatible context D:\wamp\www\dev\gezzzi\Application\Home\Controller\IndexController.class.php 第 8 行.
+
